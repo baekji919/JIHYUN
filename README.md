@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=EFB469&height=125&section=header&text=Introducing%20JiHyun&fontColor=FFFFFF&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=EFB469&height=125&section=header&text=Hello%20I'm%20JiHyun&fontColor=FFFFFF&fontSize=40)
 
 <div align="center">
 
