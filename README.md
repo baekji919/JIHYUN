@@ -3,7 +3,10 @@
 
 <div align=center>
     <h2>Contacts</h2>
-</div>
+    <a href="https://github.com/baekji919">
+         <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white"/>
+    </a>
+   </div>
 
 <div align=center>
     <h2>Tech Stack</h2>
