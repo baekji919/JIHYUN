@@ -27,6 +27,7 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=Grafana&logoColor=white)
 
+<div align="left">
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baekji919&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=baekji919&show_icons=true">
