@@ -6,6 +6,9 @@
     <a href="https://github.com/baekji919">
          <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white"/>
     </a>
+    <a href="https://baekji919.tistory.com">
+         <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=GitLab&logoColor=white"/>
+    </a>
    </div>
 
 <div align=center>
